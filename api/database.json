@@ -1,0 +1,18 @@
+{
+    "projects":[
+        {
+            "id": 1,
+            "title": "AFE",
+            "date": "24JUL2021",
+            "external_Libraries_Tools_Technology": "React, JSON, Babel, JSX, Bootstrap",
+            "description": "AFE stands for Adults Furthering Education. I developed this app to show a list of schools to help me decide what my next school will be. I plan on educating myself and using educational benefits to better myself long-term. My goal for making this app is also to motivate me to one day attend another school, complete another program of study, and learn more about the entreprenuership and corporate industry related to software and technology.",
+            "screenshots": [
+                {
+                    "schoolList": "",
+                    "schoolForm": "",
+                    "schoolDetail": ""
+                }
+            ]
+        }
+    ]
+}

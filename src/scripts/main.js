@@ -1,4 +1,6 @@
-import { Portfolio } from "./work.js"
+import { Portfolio } from "./Portfolio.js"
+import { fetchProjects } from "./dataAccess.js"
+
 
 
 const mainContainer = document.querySelector("#container")

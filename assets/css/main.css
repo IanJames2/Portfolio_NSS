@@ -32,6 +32,10 @@ body {
 	line-height: 1;
 }
 
+#logo {
+	object-fit: contain;
+}
+
 ol, ul {
 	list-style: none;
 }
@@ -1539,6 +1543,7 @@ input, select, textarea {
 			right: 0;
 			bottom: 35px;
 			font-weight: 200;
+			margin-top: auto;
 		}
 
 			#header nav a {
